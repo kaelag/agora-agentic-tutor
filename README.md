@@ -208,3 +208,8 @@ layer autonomously before shipping.
 ## License
 
 MIT — see [LICENSE](LICENSE).
+
+
+## Team
+
+Built with [Ilias Kalalou](https://github.com/iliaskalalou). The original history is kept; Ilias's commits are co-authored.
